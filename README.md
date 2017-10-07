@@ -8,7 +8,8 @@ Collection of notebooks and other documents generated as a result of following t
 * [Lesson 2 - Linear model]()
 
 <a name="lesson2-reusingvgg"/>
-##Lesson 2 Homework : Reusing VGG
+
+## Lesson 2 Homework : Reusing VGG
 
 ### Introduction
 
