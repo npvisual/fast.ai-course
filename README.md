@@ -1,4 +1,4 @@
-# Practical Deep Learning
+# Practical Deep Learning for Coders : My Journey
 
 Collection of notebooks and other documents generated as a result of following the [fast.ai class](http://course.fast.ai) : Practical Deep Learning for Coders.
 
