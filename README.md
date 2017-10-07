@@ -4,10 +4,10 @@ Collection of notebooks and other documents generated as a result of following t
 
 ##### Table of contents
 
-* [Lesson 2 - Reusing VGG](#lesson2-reusinggvgg) : notebook showing how to avoid importing all images to run predictions.
+* [Lesson 2 - Reusing VGG](#lesson2-reusingvgg) : notebook showing how to avoid importing all images to run predictions.
 * [Lesson 2 - Linear model]()
 
-<a name="lesson2-reusinggvgg">
+<a name="lesson2-reusingvgg"/>
 ##Lesson 2 Homework : Reusing VGG
 
 ### Introduction
